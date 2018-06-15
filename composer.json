@@ -1,7 +1,7 @@
 {
-    "name": "rappasoft/laravel-5-boilerplate",
+    "name": "OTCEX exchange platform",
     "description": "The Laravel Boilerplate Project.",
-    "keywords": ["framework", "laravel", "boilerplate"],
+    "keywords": ["cryptocurrency", "exchange", "trading"],
     "license": "MIT",
     "type": "project",
     "require": {
