@@ -31,6 +31,8 @@
                 @include('includes.partials.messages')
                 @yield('content')
             </div><!-- container -->
+            <br>
+            @include('frontend.includes.footer')
         </div><!-- #app -->
 
         <!-- Scripts -->
